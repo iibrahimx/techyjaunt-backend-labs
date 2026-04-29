@@ -37,11 +37,9 @@ Create a variable named `bunny` and assign it an object containing `name`, `age`
 node assignment-01/01-bunny-object/index.js
 ```
 
-### Assignment 01: Bunny Object
+### Assignment 02: Bunnies Array
 
 **Task Summary:**  
-Create a variable named `bunny` and assign it an object containing `name`, `age`, and `isHappy` properties.
-
 Create an array name `bunnies` that contains the names of six bunnies.
 
 **What I did:**
