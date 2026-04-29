@@ -31,12 +31,35 @@ Create a variable named `bunny` and assign it an object containing `name`, `age`
 **File:**  
 `assignment-01/01-bunny-object/index.js`
 
-## How to Run
+#### How to Run
 
 ```bash
 node assignment-01/01-bunny-object/index.js
 ```
 
-## Status
+### Assignment 01: Bunny Object
 
-This repository is still in progress and will be updated as more assignments are given.
+**Task Summary:**  
+Create a variable named `bunny` and assign it an object containing `name`, `age`, and `isHappy` properties.
+
+Create an array name `bunnies` that contains the names of six bunnies.
+
+**What I did:**
+
+- Created a JavaScript object named `bunnies`
+- Added a new bunny called `Mario` to the end of the array
+- Removed the bunny called `Lucy` from the array
+- Added a new bunny called `Luigi` to the beginning of the array
+
+**File:**  
+`assignment-01/index.js`
+
+#### How to Run
+
+```bash
+node assignment-02/index.js
+```
+
+---
+
+> ⚠️NOTE: This repository is still in progress and will be updated as more assignments are given.
