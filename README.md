@@ -52,7 +52,7 @@ Create an array name `bunnies` that contains the names of six bunnies.
 - Added a new bunny called `Luigi` to the beginning of the array
 
 **File:**  
-`assignment-01/index.js`
+`assignment-02/index.js`
 
 #### How to Run
 
